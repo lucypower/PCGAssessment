@@ -19,5 +19,9 @@
 			"Name": "PCGGeometryScriptInterop",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"Windows"
 	]
 }
